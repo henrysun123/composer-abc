@@ -1,0 +1,12 @@
+{
+    "name": "henry1234567/composer-abc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "henrysun",
+            "email": "henrysun@kuainiugroup.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
